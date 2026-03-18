@@ -15,7 +15,7 @@ In the current testbench, the transmitter output is connected directly to the re
 
 ### Simulation Waveform
 
-![Simulation Waveform](waveform.png)
+![Simulation Waveform](waveform.PNG)
 
 ## Running the Simulation
 
