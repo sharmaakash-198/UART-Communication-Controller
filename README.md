@@ -13,9 +13,13 @@ In the current testbench, the transmitter output is connected directly to the re
 
 ![UART Block Diagram](uart.png)
 
+### FSM Block Diagram
+
+![FSM Block Diagram](fsm.png)
+
 ### Simulation Waveform
 
-![Simulation Waveform](waveform.PNG)
+![Simulation Waveform](waveform.png)
 
 ## Running the Simulation
 
